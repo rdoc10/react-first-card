@@ -1,0 +1,20 @@
+body {
+  margin: auto;
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+.cards-list {
+  max-width: 40%;
+  align-items: center;
+  margin: auto;
+}
+
+.card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.image {
+  background-color: grey;
+}
